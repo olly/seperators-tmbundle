@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># Instance Methods ::::::::::::::::::::::::::::::::::::::::::::::::</string>
+	<key>name</key>
+	<string>Instance Methods</string>
+	<key>tabTrigger</key>
+	<string>dsim</string>
+	<key>uuid</key>
+	<string>C9E31349-8836-454B-A164-28C926E62964</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># Named Scopes ::::::::::::::::::::::::::::::::::::::::::::::::::::</string>
+	<key>name</key>
+	<string>Named Scopes</string>
+	<key>tabTrigger</key>
+	<string>dsns</string>
+	<key>uuid</key>
+	<string>CF7C9BA5-D413-4445-A5CD-F549F8F09067</string>
+</dict>
+</plist>

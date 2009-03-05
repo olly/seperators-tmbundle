@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># Virtual Attributes ::::::::::::::::::::::::::::::::::::::::::::::</string>
+	<key>name</key>
+	<string>Virtual Attributes</string>
+	<key>tabTrigger</key>
+	<string>dsva</string>
+	<key>uuid</key>
+	<string>5A015F38-7C53-4BDA-887F-F895E3261087</string>
+</dict>
+</plist>

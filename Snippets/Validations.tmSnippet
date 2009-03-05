@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># Validations :::::::::::::::::::::::::::::::::::::::::::::::::::::</string>
+	<key>name</key>
+	<string>Validations</string>
+	<key>tabTrigger</key>
+	<string>dsv</string>
+	<key>uuid</key>
+	<string>EA9B3CE0-E076-417F-95A5-456458462E4F</string>
+</dict>
+</plist>

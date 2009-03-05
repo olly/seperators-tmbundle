@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># Callbacks :::::::::::::::::::::::::::::::::::::::::::::::::::::::</string>
+	<key>name</key>
+	<string>Callbacks</string>
+	<key>tabTrigger</key>
+	<string>dsc</string>
+	<key>uuid</key>
+	<string>DC07A556-0EA0-4F72-B0B3-F93725500184</string>
+</dict>
+</plist>

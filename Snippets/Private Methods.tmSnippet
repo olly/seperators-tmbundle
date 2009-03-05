@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># Private Methods :::::::::::::::::::::::::::::::::::::::::::::::::</string>
+	<key>name</key>
+	<string>Private Methods</string>
+	<key>tabTrigger</key>
+	<string>dspm</string>
+	<key>uuid</key>
+	<string>72B7830A-DD2D-45A7-B499-F43734217EBF</string>
+</dict>
+</plist>
